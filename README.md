@@ -12,7 +12,7 @@ NOTE: This dapp has 10 more UI pages but I feel it's overwhelming to show all. B
 * [Token withdrawal page](https://github.com/seroya7273/nangi/blob/master/screenshot-nanogigs.gq-2022.02.01-09_25_59.png)
 * [Private messaging page](https://github.com/seroya7273/nangi/blob/master/screenshot-nanogigs.gq-2022.02.01-09_26_19.png)
 
-**Admin page**
+**Admin pages**
 * [Token config page](https://github.com/seroya7273/nangi/blob/master/screenshot-nanogigs.gq-2022.01.31-20_45_21.png)
 * [Frontend page config](https://github.com/seroya7273/nangi/blob/master/screenshot-nanogigs.gq-2022.01.31-20_46_29.png)
 * [Request listing config page](https://github.com/seroya7273/nangi/blob/master/screenshot-nanogigs.gq-2022.01.31-20_46_55.png)
